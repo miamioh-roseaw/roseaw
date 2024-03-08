@@ -8,6 +8,6 @@ body{
   background-attachment: fixed;
   font-family: 'Impact',sans-serif;
 }
-p {
-  font-family: Impact;
+html {
+  font-family: Arial, sans-serif;
 }
